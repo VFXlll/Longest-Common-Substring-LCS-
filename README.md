@@ -1,3 +1,5 @@
+An algorithm for finding the Longest Common Substring (LCS) between two strings s1 and s2 using dynamic programming.
+
 Explanation:
 Input strings s1 and s2.
 
